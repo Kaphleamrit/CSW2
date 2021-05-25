@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdvancingGame",
+            "request": "launch",
+            "mainClass": "AdvancingGame",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "ArrayList.Q1",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q10",
+            "request": "launch",
+            "mainClass": "ArrayList.Q10",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q11",
+            "request": "launch",
+            "mainClass": "ArrayList.Q11",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q12",
+            "request": "launch",
+            "mainClass": "ArrayList.Q12",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q13",
+            "request": "launch",
+            "mainClass": "ArrayList.Q13",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q14",
+            "request": "launch",
+            "mainClass": "ArrayList.Q14",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q15",
+            "request": "launch",
+            "mainClass": "ArrayList.Q15",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q16",
+            "request": "launch",
+            "mainClass": "ArrayList.Q16",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "ArrayList.Q2",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "ArrayList.Q3",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "ArrayList.Q4",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "ArrayList.Q5",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6",
+            "request": "launch",
+            "mainClass": "ArrayList.Q6",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7",
+            "request": "launch",
+            "mainClass": "ArrayList.Q7",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8",
+            "request": "launch",
+            "mainClass": "ArrayList.Q8",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q9",
+            "request": "launch",
+            "mainClass": "ArrayList.Q9",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch intro",
+            "request": "launch",
+            "mainClass": "ArrayList.intro",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxmin",
+            "request": "launch",
+            "mainClass": "ArrayList.maxmin",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch newCode",
+            "request": "launch",
+            "mainClass": "ArrayList.newCode",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch rev",
+            "request": "launch",
+            "mainClass": "ArrayList.rev",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch SudokuSolver",
+            "request": "launch",
+            "mainClass": "Backtracking.SudokuSolver",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeRandomSubset",
+            "request": "launch",
+            "mainClass": "ComputeRandomSubset",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasSet",
+            "request": "launch",
+            "mainClass": "HasSet",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashmapp",
+            "request": "launch",
+            "mainClass": "Hashmapp",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Help",
+            "request": "launch",
+            "mainClass": "Help",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Help2",
+            "request": "launch",
+            "mainClass": "Help2",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(1)",
+            "request": "launch",
+            "mainClass": "Q.uick.Q1",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch fourPart",
+            "request": "launch",
+            "mainClass": "Q.uick.fourPart",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch part3",
+            "request": "launch",
+            "mainClass": "Q.uick.part3",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch partition2",
+            "request": "launch",
+            "mainClass": "Q.uick.partition2",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomKsizedSubset",
+            "request": "launch",
+            "mainClass": "RandomKsizedSubset",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch EffPrimeLister",
+            "request": "launch",
+            "mainClass": "chapter2.EffPrimeLister",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemovingDuplicates",
+            "request": "launch",
+            "mainClass": "chapter2.RemovingDuplicates",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwiceTrans",
+            "request": "launch",
+            "mainClass": "chapter2.TwiceTrans",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwiceTransBruteForce",
+            "request": "launch",
+            "mainClass": "chapter2.TwiceTransBruteForce",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch moreEffPrimeLister",
+            "request": "launch",
+            "mainClass": "chapter2.moreEffPrimeLister",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextPermutation",
+            "request": "launch",
+            "mainClass": "chapter2.nextPermutation",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutation",
+            "request": "launch",
+            "mainClass": "chapter2.permutation",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeLister",
+            "request": "launch",
+            "mainClass": "chapter2.primeLister",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkStack",
+            "request": "launch",
+            "mainClass": "chapter2.sixpointoneone.checkStack",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch onlineSub",
+            "request": "launch",
+            "mainClass": "chapter2.sixpointoneone.onlineSub",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch six13",
+            "request": "launch",
+            "mainClass": "chapter2.sixpointoneone.six13",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch dynamicAdding",
+            "request": "launch",
+            "mainClass": "dynamicAdding",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "extra.BubbleSort",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Closest",
+            "request": "launch",
+            "mainClass": "extra.Closest",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComRec",
+            "request": "launch",
+            "mainClass": "extra.ComRec",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicArr",
+            "request": "launch",
+            "mainClass": "extra.DynamicArr",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "extra.InsertionSort",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lookup",
+            "request": "launch",
+            "mainClass": "extra.Lookup",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecCheck",
+            "request": "launch",
+            "mainClass": "extra.RecCheck",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch multWithout",
+            "request": "launch",
+            "mainClass": "extra.multWithout",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "extra.palindrome",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch generateRandomNoWithGivenProbablity",
+            "request": "launch",
+            "mainClass": "generateRandomNoWithGivenProbablity",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(2)",
+            "request": "launch",
+            "mainClass": "others.Q1",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2(1)",
+            "request": "launch",
+            "mainClass": "others.Q2",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicate",
+            "request": "launch",
+            "mainClass": "removeDuplicate",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch schoolMultiplication",
+            "request": "launch",
+            "mainClass": "schoolMultiplication",
+            "projectName": "csw-2_b5ab17be"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDimArrayList",
+            "request": "launch",
+            "mainClass": "twoDimArrayList",
+            "projectName": "csw-2_b5ab17be"
+        }
+    ]
+}

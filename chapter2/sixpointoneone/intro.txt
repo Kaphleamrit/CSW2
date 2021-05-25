@@ -1,0 +1,13 @@
+
+sample offline data :
+
+A company has a no of users(N)
+it will select a sample of random subset of its users
+to perform a survey
+Let input Array A of length n .
+subset of size = k
+select the elements randomly with a size k .
+r.swap(a[0],s[r])
+
+wap to create a array of size n and return an subarray
+of size 2 to n-1
