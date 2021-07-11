@@ -1,0 +1,49 @@
+Assignment On String
+1. Write a program to convert a string to integer and vice versa.
+2. Write a program that performs base conversion. The input is a string, an
+integer b2 , and another integer b2. The string represents be an integer in
+base b2. The output should be the string representing the integer in base
+b2.
+3. Implement a function that converts a spreadsheet column id to the corre-
+sponding integer, with "A" corresponding to 1. For example, you should
+return 4 for "D", 27 for "AA", 702 for "ZZ", etc. How would you test
+your code?
+4. Write a program which takes as input an array of characters, and removes
+each 'b' and replaces each 'a' by two 'd's. Specically, along with the
+array, you are provided an integer-valued size. Size denotes the number
+of entries of the array that the operation is to be applied to. You do not
+have to worry preserving about subsequent entries. For example, if the
+array is <a, b, a,c,J> and the size is 4, then you can return <d, d,d,d, c>.
+You can assume there is enough space in the array to hold the nal result.
+5. Implement a function which takes as input a string s and returns true if s
+is a palindromic string.
+6. Write a program which takes as input a phone number, specied as a string
+of digits, and returns all possible character sequences that correspond to
+the phone number. The cell phone keypad is specied by a mapping
+that takes a digit and returns the corresponding set of characters. The
+character sequences do not have to be legal words or phrases.
+7. Write a program that takes as input an integer n and returns the nth
+integer in the look-and-say sequence. Return the result as a string.
+8. Write a program which takes as input a valid Roman number string s and
+returns the integer it corresponds to
+9. Write a program that determines where to add periods to a decimal
+string so that the resulting string is a valid IP address. There may be
+more than one valid IP address corresponding to a string, in which case
+you should print all possibilities. For example, if the mangled string
+is "19216811" then two corresponding IP addresses are 192.168.1.1 and
+19.216.81.1. (There are seven other possible IP addresses for this string.)
+10. Write a program which takes as input a string s and returns the snakestring
+of s.
+11. Run-length encoding (RLE) compression oers a fast way to do ecient
+on-the-
+y compression and decompression of strings. The idea is simple
+1
+encode successive repeated characters by the repetition count and the
+character. For example, the RLE of "aaaabcccaa" is "4alb3c2a". The
+decoding of "3e4f2e" returns "eeeee". Implement run-length encoding
+and decoding functions. Assume the string to be encoded consists of letters
+of the alphabet, with no digits, and the string to be decoded is a valid
+encoding.
+12. Given two strings s (the "search string") and t (the "text"), nd the rst
+occurrence of s in t.
+2

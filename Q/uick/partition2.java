@@ -18,7 +18,7 @@ public class partition2 {
         int temp = arr[i + 1];
         arr[i + 1] = arr[6];
         arr[6] = temp;
-        x`11
+
         System.out.println(Arrays.toString(arr));
     }
 
